@@ -1,0 +1,3 @@
+﻿name,designation_id,employee_id,shift_id,dob,process_id,gender,team_id,client_id,branch_id,phone_number,aadhar_number,esi_number,uan_number,date_of_joining,date_of_leaving,cl,sl,pl,salary,insurance,bank_id,account_number,ifsc,email,password
+Robert,IT,E001,DAY,18-04-1990,Process,Male,Team A ,Client A,Chennai,1234567890,123456789012,12345978901234500,123456789012,24-06-2020,,2,1,2,30000,,TMB,123345678901245,d123456789012547896201,ssdd@gmail.com,password@123
+Kavin,IT,E002,DAY,18-04-1998,Process,Male,Team A ,Client A,Chennai,1234567897,123456789021,12345678901234500,123456789021,24-06-2021,24-06-2023,2,1,2,50000,,TMB,33,d,ss452@gmail.com,password@123
